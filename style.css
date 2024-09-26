@@ -63,10 +63,11 @@ button{
   display: flex;
   }
 .bg_img{
-  background-image:url(./photo-1453928582365-b6ad33cbcf64.avif);
+  background-image:url(./nathan-da-silva-k-rKfqSm4L4-unsplash.jpg);
   height: 600px;
   width: 100%;
   background-size: cover;
+  background-repeat: no-repeat;
 
 }
 /* header finisher */
